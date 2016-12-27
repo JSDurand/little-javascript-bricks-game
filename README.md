@@ -1,3 +1,8 @@
+# Important notice:
+This is not updated anymore.
+Please refer to `http://github.com/JSDurand/JSDurand.github.io`
+Thanks!
+
 # What is this?
 
 This is a little game to break bricks, written in javascript and p5.js.
